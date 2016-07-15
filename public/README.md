@@ -1,1 +1,0 @@
-react form with stubby/mock server call.Using GET,POST,PUT and DELETE methods.
